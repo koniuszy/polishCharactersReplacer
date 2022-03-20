@@ -1,0 +1,10 @@
+{
+  "name": "spolszczenie",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "translate": "ts-node ./index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
